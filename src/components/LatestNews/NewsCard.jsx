@@ -14,7 +14,7 @@ const NewsCard = ({ item }) => {
 
     const sliceDesc = item?.desc.split(" ").slice(0, 20).join(" ") + (item?.desc.split(" ").length > 20 ? "..." : "")
     return (
-        <Link>
+        <Link to={"/latest-news-details"} state={{ newsItem: item ? item : "" }}>
             <div className="card card-compact bg-base-100 shadow-xl">
                 <figure>
                     <img

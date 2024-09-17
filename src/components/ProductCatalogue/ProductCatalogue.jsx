@@ -2,6 +2,7 @@
 import useProductsFetch from "../../context/useProductsFetch";
 import ProductCard from "../ProductCard/ProductCard";
 import productTileImg from "../../assets/TitleBg/p1.png"
+import { Link } from "react-router-dom";
 
 const ProductCatalogue = () => {
 
@@ -21,7 +22,9 @@ const ProductCatalogue = () => {
                     <ProductCard key={item.id} item={item} />
                 ))}
             </div>
-            <button className="flex p-4 my-6 hover:bg-sky-500 px-10 mx-auto bg-red-500 text-white rounded">All Products</button>
+            <Link to={"/products-catalogues"}>
+                <button className="flex p-4 my-6 hover:bg-sky-500 px-10 mx-auto bg-red-500 text-white rounded">All Products</button>
+            </Link>
         </div>
     );
 };

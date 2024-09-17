@@ -12,13 +12,13 @@ const Navbar = () => {
                 <summary className="text-lg font-bold">Our Products</summary>
                 <ul className="font-semibold">
                     <li className='text-sm '><Link to="/">latest-products-manual </Link></li>
-                    <li className='text-sm '><Link to="/">ProductCatalogue</Link></li>
+                    <li className='text-sm '><Link to="/products-catalogues">ProductCatalogue</Link></li>
                     <li className='text-sm '><Link to="/">Product-List</Link></li>
                 </ul>
             </details>
         </li>
 
-        <li className='text-lg font-bold'><Link to="/">Certification</Link></li>
+        <li className='text-lg font-bold'><Link to="/certification">Certification</Link></li>
         <li className='text-lg font-bold'><Link to="/">Contact</Link></li>
 
     </>
