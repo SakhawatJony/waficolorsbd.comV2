@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import logo from "../../assets/Logo/webLogo.png";
-import navImg from "../../assets/Image/km_enterprise.jpg"
+// import navImg from "../../assets/Image/km_enterprise.jpg"
 
 const Navbar = () => {
 
@@ -44,9 +44,9 @@ const Navbar = () => {
                 </ul>
             </div>
 
-            <div className="navbar-end">
+            {/* <div className="navbar-end">
                 <img className="pr-12" src={navImg} alt="nav Img" />
-            </div>
+            </div> */}
         </div>
     );
 };

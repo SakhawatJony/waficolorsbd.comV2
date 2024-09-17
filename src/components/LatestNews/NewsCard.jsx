@@ -1,15 +1,13 @@
 import { Link } from "react-router-dom";
 
 const NewsCard = ({ item }) => {
-
-
     const date = new Date(item?.date);
 
     // Convert the date to the format: 13-May-2023
-    const formattedDate = date.toLocaleDateString('en-GB', {
-        day: '2-digit',
-        month: 'short',
-        year: 'numeric'
+    const formattedDate = date.toLocaleDateString("en-GB", {
+        day: "2-digit",
+        month: "short",
+        year: "numeric",
     });
 
     const sliceDesc = item?.desc.split(" ").slice(0, 20).join(" ") + (item?.desc.split(" ").length > 20 ? "..." : "")
@@ -30,6 +28,8 @@ const NewsCard = ({ item }) => {
             </div>
         </Link>
     );
+
+
 };
 
 export default NewsCard;
