@@ -5,6 +5,7 @@ import Director from "../pages/Director/Director";
 import Certification from "../pages/Certification/Certification";
 import AllProduct from "../pages/AllProduct/AllProduct";
 import LatestNewsDetails from "../pages/LatestNewsDetails/LatestNewsDetails";
+import Contact from "../pages/Contact/Contact";
 
 export const router = createBrowserRouter([
     {
@@ -32,6 +33,11 @@ export const router = createBrowserRouter([
             {
                 path: "/latest-news-details",
                 element: <LatestNewsDetails />
+
+            },
+            {
+                path: "/contact",
+                element: <Contact />
 
             }
         ]

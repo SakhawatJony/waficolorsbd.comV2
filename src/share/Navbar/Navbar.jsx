@@ -19,7 +19,7 @@ const Navbar = () => {
         </li>
 
         <li className='text-lg font-bold'><Link to="/certification">Certification</Link></li>
-        <li className='text-lg font-bold'><Link to="/">Contact</Link></li>
+        <li className='text-lg font-bold'><Link to="/contact">Contact</Link></li>
 
     </>
 
