@@ -99,23 +99,24 @@ const Contact = () => {
                         <div className="form-control w-full ">
                             <input type="text" placeholder="Enter Name" className="input input-bordered" required />
                         </div>
-                        <div className="form-control w-full mt-3">
+                        <div className="form-control w-full mt-4">
                             <input type="text" placeholder="Enter Address" className="input input-bordered" required />
                         </div>
 
 
-                        <div className="form-control mt-3">
+                        <div className="form-control mt-4">
                             <input type="text" placeholder="Enter Phone" className="input input-bordered" required />
                         </div>
-                        <label className="form-control mt-3">
+                        <label className="form-control mt-4">
                             <textarea className="textarea textarea-bordered h-32" placeholder="Message Descriptions" required></textarea>
                         </label>
-                        <button className="btn p-4 h-16 w-44 bg-cyan-500 text-white font-bold rounded hover:bg-red-500 border-b-4 my-4 uppercase">Send</button>
+                        <button className="btn p-4 mt-10 h-16 w-44 bg-cyan-500 text-white font-bold rounded hover:bg-red-500 border-b-4 my-4 uppercase">Send</button>
 
                     </form>
                     {/*TODO google Map Add  */}
-                    <div className="w-1/2 bg-slate-400">
-                        <h1>Googe map ADD</h1>
+                    <div className="w-1/2">
+
+                        <iframe width="100%" height="450" frameBorder="0" scrolling="no" marginHeight="0" marginWidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Rupayan%20Taj,%20Flat:%20K-3%20(3rd%20Floor)%20Plot%20No:%201,%201/1%20NayaPalton,%20Dhaka%201000,%20Bangladesh+(Waficolorsbd.com)&amp;t=p&amp;z=17&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.gps.ie/">gps tracker sport</a></iframe>
                     </div>
                 </div>
             </div>
