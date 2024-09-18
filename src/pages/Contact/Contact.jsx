@@ -21,9 +21,9 @@ const Contact = () => {
                         <br />
                         Fax: (02)-8391657
                         <br />
-                        Email: mrkabir@silkflexbd.com, mrkabir@kmenterprisebd.com
+                        Email: waficolorsbd@gamil.com
                         <br />
-                        Website: www.silkflexbd.com
+                        Website: www.waficolorsbd.com
                     </address>
                 </div>
 
@@ -39,7 +39,7 @@ const Contact = () => {
                         <br />
                         Mobile: 01712897339, 01711667583
                         <br />
-                        Email: dhaka@silkflexbd.com
+                        Email: dhaka@waficolorsbd.com
 
                     </address>
                     <address>
@@ -51,18 +51,20 @@ const Contact = () => {
                         <br />
                         Mobile: 01711665760, 01711667594
                         <br />
-                        Email: konabari@silkflexbd.com
+                        Email: konabari@waficolorsbd.com
                     </address>
                     <address>
                         <p className="text-2xl text-orange-500 font-bold border-b">MIRPUR BRANCH</p>
                         <br />
-                        Sec # 6, Block # Kha, Rd # 1, Plot # 17, Sanpara
+                        House#21, Block#A, Ave#1,
                         <br />
-                        Parbota, Mirpur-10
+                        Section#11, Mirpur,
                         <br />
-                        Mobile: 01711667023, 01711665695
+                        Dhaka#1216. Bangladesh
                         <br />
-                        Email: mirpur@silkflexbd.com
+                        Mobile: 01682-714945, 1714-810148
+                        <br />
+                        Email: mirpur@waficolorsbd.com
                     </address>
                 </div>
                 <div className="lg:flex mdl:flex gap-12 my-12">
@@ -75,7 +77,7 @@ const Contact = () => {
                         <br />
                         Mobile: 01711667027, 01711667014
                         <br />
-                        Email: narayangonj@silkflexbd.com
+                        Email: narayangonj@waficolorsbd.com
                     </address>
                     <address>
                         <p className="text-2xl text-orange-500 font-bold border-b">CHATTOGRAM BRANCH</p>
@@ -86,7 +88,7 @@ const Contact = () => {
                         <br />
                         Mobile: 01711667571
                         <br />
-                        Email: chattagram@silkflexbd.com
+                        Email: chattagram@waficolorsbd.com
                     </address>
                 </div>
             </div>

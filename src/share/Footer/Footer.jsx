@@ -56,7 +56,7 @@ const Footer = () => {
               </address>
               <a
                 style={{ color: "#F6911D" }}
-                href="http://www.silkflexbd.com"
+                href="http://www.waficolorsbd.com"
                 className="text-blue-400 hover:text-blue-300"
               >
                 website:www.Waficolorsbd.com
