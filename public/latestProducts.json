@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "FOR HIGH QUALITY MANUAL RUBBER PRINT",
+        "products1": "PREMIUM RUBBER WHITE WXM-300(EXTRA MATT)",
+        "products2": "PREMIUM RUBBER CLEAR CXM-301(EXTRAMATT)"
+    },
+    {
+        "id": 2,
+        "name": "FOR ALL OVER PRINT",
+        "products1": " SILKBOND 35",
+        "products2": ""
+    },
+    {
+        "id": 3,
+        "name": "GLOW-IN-THE-DARK PRINT",
+        "products1": "SILKFLEX GLOW-IN-THE-DARK PASTE GITD-203",
+        "products2": ""
+    },
+    {
+        "id": 4,
+        "name": "CRACK PRINT",
+        "products1": " SILKFLEX AQUA CRACK WHITE AQCW-750",
+        "products2": " SILKFLEX AQUA CRACK CLEAR AQCT-751"
+    },
+    {
+        "id": 5,
+        "name": "WATER BASE HIGH DENSITY PRINT",
+        "products1": "SILKFLEX HIGHDENSITY RUBBER CLEAR CHD-301",
+        "products2": "SILKFLEX HIGHDENSITY RUBBER WHITE WHD-302"
+    },
+    {
+        "id": 6,
+        "name": "FOR PHOTO PRINT",
+        "products1": "AQUADIS CLEAR ADCM-402",
+        "products2": " AQUADIS WHITE ADWM-401"
+    },
+    {
+        "id": 7,
+        "name": "MATTING PASTE",
+        "products1": "SILKFLEX MATT PASTE SPB-224",
+        "products2": ""
+    },
+    {
+        "id": 8,
+        "name": "ANTI MIGRATION INK",
+        "products1": "ELASTISOL FABRIC SEALER EFS-185",
+        "products2": ""
+    },
+    {
+        "id": 9,
+        "name": "FOR HIGH QUALITY MACHINE GRADE RUBBER PRINT",
+        "products1": "ELASTISOL CLEAR ECS (SUPPER MATT)",
+        "products2": " ELASTISOL WHITE EWS (SUPPER MATT)"
+    },
+    {
+        "id": 10,
+        "name": "MEDIUM GRADE MANUAL RUBBER PRINT",
+        "products1": "SILKFLEX NEOPRINT RUBBER CLEAR NPC-1402",
+        "products2": "SILKFLEX NEOPRINT RUBBER WHITE NPW-1401"
+    },
+    {
+        "id": 11,
+        "name": "FOR HIGH QUALITY MANUAL RUBBER PRINT (EXTRAMATT)",
+        "products1": "SILKFLEX PUMA RUBBER CLEAR SPC-1502",
+        "products2": "SILKFLEX PUMA RUBBER WHITE SPW-1501"
+    },
+    {
+        "id": 12,
+        "name": "FIXING AGENT",
+        "products1": "SILKFLEX ECO OXAL FIXER SU-400E",
+        "products2": ""
+    }
+]

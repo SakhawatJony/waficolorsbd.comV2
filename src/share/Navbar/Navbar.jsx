@@ -9,11 +9,11 @@ const Navbar = () => {
         <li className='text-lg font-bold'><Link to="/director"> Director Message</Link></li>
         <li>
             <details>
-                <summary className="text-lg font-bold">Our Products</summary>
+                <summary className="lg:text-lg font-bold">Our Products</summary>
                 <ul className="font-semibold">
-                    <li className='text-sm '><Link to="/">latest-products-manual </Link></li>
+                    <li className='text-sm '><Link to="/latest-products">latest-products-manual </Link></li>
                     <li className='text-sm '><Link to="/products-catalogues">ProductCatalogue</Link></li>
-                    <li className='text-sm '><Link to="/">Product-List</Link></li>
+                    <li className='text-sm '><Link to="/product-list">Product-List</Link></li>
                 </ul>
             </details>
         </li>
@@ -35,7 +35,7 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <Link to={"/"}>
-                    <img className="w-44 h-24" src={logo} alt="" />
+                    <img className="lgl:w-44 lg:w-40 mdl:w-36 md:w-32 sm:w-28 lgl:h-24 lg:h-24 h-20 " src={logo} alt="" />
                 </Link>
             </div>
             <div className="navbar-center hidden lg:flex">

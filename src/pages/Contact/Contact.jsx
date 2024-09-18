@@ -5,11 +5,11 @@ const Contact = () => {
     return (
         <section className="container mx-auto py-24">
             <PageTopTitle title={"contact Us"} />
-            <div className="flex flex-col px-60">
-                <img className="mx-auto p-20" src={bdmap} alt="BdMap" />
+            <div className="lg:flex mdl:flex mdl:flex-col lg:flex-col lg:px-60">
+                <img className="mx-auto sm:w-full lg:p-20" src={bdmap} alt="BdMap" />
 
                 {/* all offece adrress  */}
-                <div className="">
+                <div>
                     <address className="mx-auto">
                         <p className="text-2xl text-orange-500 font-bold border-b">CORPORATE OFFICE</p>
                         <br />
@@ -27,7 +27,7 @@ const Contact = () => {
                     </address>
                 </div>
 
-                <div className="flex gap-12 mt-4 ">
+                <div className="lg:flex mdl:flex lg:gap-12 mdl:gap-10 mt-4 ">
                     <address>
                         <p className="text-2xl text-orange-500 font-bold border-b">DHAKA BRANCH</p>
                         <br />
@@ -65,7 +65,7 @@ const Contact = () => {
                         Email: mirpur@silkflexbd.com
                     </address>
                 </div>
-                <div className="flex gap-12 my-12">
+                <div className="lg:flex mdl:flex gap-12 my-12">
                     <address>
                         <p className="text-2xl text-orange-500 font-bold border-b">NARAYANGONJ BRANCH</p>
                         <br />
@@ -91,9 +91,9 @@ const Contact = () => {
                 </div>
             </div>
             {/* from and map  */}
-            <div className="px-60">
+            <div className="lg:px-56">
                 <h1 className="uppercase text-3xl my-6 font-semibold">Contact Us</h1>
-                <div className="flex gap-6">
+                <div className="lg:flex mdl:flex gap-6">
                     {/* constct Form  */}
                     <form className="card-body p-0 mx-auto">
                         <div className="form-control w-full ">
@@ -114,7 +114,7 @@ const Contact = () => {
 
                     </form>
                     {/*TODO google Map Add  */}
-                    <div className="w-1/2">
+                    <div className="lg:w-1/2 mdl:w-1/2 lg:mt-0 mdl:mt-0 sm:mt-8">
 
                         <iframe width="100%" height="450" frameBorder="0" scrolling="no" marginHeight="0" marginWidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Rupayan%20Taj,%20Flat:%20K-3%20(3rd%20Floor)%20Plot%20No:%201,%201/1%20NayaPalton,%20Dhaka%201000,%20Bangladesh+(Waficolorsbd.com)&amp;t=p&amp;z=17&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.gps.ie/">gps tracker sport</a></iframe>
                     </div>

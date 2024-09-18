@@ -7,7 +7,7 @@ const ProductCard = ({ item }) => {
             {/*TODO if product details show ,do you provide id inculedus link  */}
 
             <Link to={"/products-catalogues"}>
-                <div className="group overflow-hidden  transition-transform transform hover:scale-110 duration-300">
+                <div className="group overflow-hidden transition-transform transform hover:scale-105 duration-500">
                     {/* Image */}
                     <img
                         src={item.img}

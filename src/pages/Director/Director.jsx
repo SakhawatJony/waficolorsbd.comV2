@@ -6,16 +6,16 @@ import directorImg2 from "../../assets/Director-Images/aric.png";
 
 const Director = () => {
     return (
-        <section className="container mx-auto pt-28">
+        <section className="container mx-auto pt-24">
             <PageTopTitle title="Director Message" />
             {/* 1st Director  */}
             <div>
-                <h1 className="text-5xl text-orange-500 my-5">MANAGING DIRECTOR MESSAGE</h1>
-                <div className="flex ">
+                <h1 className="lg:text-5xl mdl:text-4xl md:text-3xl sm:text-2xl text-orange-500 my-5">MANAGING DIRECTOR MESSAGE</h1>
+                <div className="lg:flex mdl:flex space-y-3 ">
 
-                    <img className="w-4/12 h-[450px] bg-red-300" src={directorImg1} alt="" />
+                    <img className="lg:w-4/12 mdl:w-4/12  sm:w-full h-[450px] bg-red-300" src={directorImg1} alt="" />
 
-                    <div className="w-7/12 text-lg bg-red-5000 mx-auto">
+                    <div className="lg:w-7/12 mdl:w-4/12  sm:w-full text-lg bg-red-5000 mx-auto">
                         <p> The Silkflex Bangladesh Limited is the sole agent of Silkflex Polymer SND BHD, Malaysia. We started our journey with Silkflex Polymers 14 years ago. Silkflex is present in the entire Printing market of Bangladesh with full commitment to our valued customers to provide up to date product & technical support based on current fashion trend.</p>
                         <br />
                         <p> By the grace of Almighty, we are now the market leader in screen printing inks in Bangladesh. It might be our products and services that said the way for the company’s distinctive success story. However, it’s never just about the products, but always about the people too and about the clear business ethics to the customers.</p>
@@ -34,12 +34,12 @@ const Director = () => {
 
             {/* 2nd Director  */}
             <div className="my-12">
-                <h1 className="text-5xl text-orange-500 my-5">DIRECTOR MESSAGE</h1>
-                <div className="flex ">
+                <h1 className="lg:text-5xl mdl:text-4xl md:text-3xl sm:text-2xl text-orange-500 my-5">DIRECTOR MESSAGE</h1>
+                <div className="lg:flex mdl:flex ">
 
-                    <img className="w-4/12 h-[450px] bg-red-300" src={directorImg2} alt="" />
+                    <img className="lg:w-3/12 mdl:w-3/12 sm:w-full h-[450px] bg-red-300" src={directorImg2} alt="" />
 
-                    <div className="w-7/12 text-lg bg-red-5000 mx-auto">
+                    <div className="lg:w-8/12 mdl:w-8/12 sm:w-full text-lg bg-red-5000 mx-auto">
                         <p>Greetings from Silkflex Malaysia. It gives us great pleasure to announce the setup of our branch office in Bangladesh. Silkflex Bangladesh Ltd. will serve the textile printing market in all aspects of the business which include technical support, logistics and value addition. In line with our expansion program, we have acquired land at strategic areas for centralized delivery and local production of textile chemicals.</p>
                         <br />
                         <p> We are extremely thankful to our customers for their belief and strong support for our products which have propelled us to the top position in Bangladesh in terms of textile ink supplies. Our greatest gratitude and appreciation to our bhai (brother) Kabir Mollah for his hard work, persistence and creativity in the highly successful promotion of the Silkflex brand name in Bangladesh. Success is never possible without great partnership and collaboration.</p>

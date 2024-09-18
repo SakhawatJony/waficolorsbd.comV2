@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "PREMIUM RUBBER WHITE SXF-101 (GLOSSY TYPE)",
+        "packSize": "25 KG PC PAIL",
+        "msds": "PDF",
+        "tds": "",
+        "chemcheck": ""
+    },
+    {
+        "id": 2,
+        "name": "PREMIUM RUBBER WHITE SXF-102 (SUPER MATT)",
+        "packSize": "25 KG PC PAIL",
+        "msds": "PDF",
+        "tds": "PDF",
+        "chemcheck": ""
+    },
+    {
+        "id": 3,
+        "name": "PREMIUM RUBBER WHITE WXM-300 (SELF FIXING)",
+        "packSize": "25 KG PC PAIL",
+        "msds": "PDF",
+        "tds": "PDF",
+        "chemcheck": ""
+    },
+    {
+        "id": 4,
+        "name": "ELASTIC RUBBER SATIN WHITE ERSW-001",
+        "packSize": "25 KG PC PAIL",
+        "msds": "PDF",
+        "tds": "",
+        "chemcheck": ""
+    },
+    {
+        "id": 5,
+        "name": "SILKFLEX NEOPRINT RUBBER WHITE NPW-1401",
+        "packSize": "25 KG PC PAIL",
+        "msds": "",
+        "tds": "",
+        "chemcheck": ""
+    },
+    {
+        "id": 6,
+        "name": "ELASTIC RUBBER WHITE LM",
+        "packSize": "25 KG PC PAIL",
+        "msds": "",
+        "tds": "",
+        "chemcheck": ""
+    },
+    {
+        "id": 7,
+        "name": "ROYALITE RUBBER WHITE EX-2030",
+        "packSize": "25 KG PC PAIL",
+        "msds": "PDF",
+        "tds": "PDF",
+        "chemcheck": ""
+    },
+    {
+        "id": 8,
+        "name": "ROYALITE RUBBER WHITE RWLT-1601",
+        "packSize": "25 KG PC PAIL",
+        "msds": "PDF",
+        "tds": "PDF",
+        "chemcheck": ""
+    },
+    {
+        "id": 9,
+        "name": "ROYALITE WHITE MX",
+        "packSize": "25 KG PC PAIL",
+        "msds": "PDF",
+        "tds": "PDF",
+        "chemcheck": ""
+    },
+    {
+        "id": 10,
+        "name": "Product J",
+        "packSize": "25 KG PC PAIL",
+        "msds": "PDF",
+        "tds": "",
+        "chemcheck": ""
+    }
+]

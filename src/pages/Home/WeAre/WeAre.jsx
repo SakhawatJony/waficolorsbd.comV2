@@ -29,24 +29,24 @@ const WeAre = () => {
 
   return (
     <section>
-      <div className="container mx-auto  pt-12">
-        <div className="flex justify-between items-center">
-          <div className="w-1/2 space-y-5">
+      <div className="container mx-auto sm:mt-4 mdl:pt-10 lg:pt-12">
+        <div className="lg:flex mdl:flex lg:gap-8 mdl:gap-4 lg:justify-between lg:items-center">
+          <div className="lg:w-1/2 mdl:w-1/2 space-y-5">
             <div>
               <img
-                className="w-[490px] mx-auto"
+                className="lg:w-[490px] mdl:-[400px] sm:w-full mx-auto"
                 src={home1}
                 alt="home image 1"
               />
             </div>
-            <div className="flex gap-10 justify-center">
-              <img className="w-56 h-56" src={home2} alt="" />
-              <img className="w-56 h-56" src={home3} alt="" />
+            <div className="lg:flex mdl:flex lg:gap-10 mdl:gap-3 justify-center">
+              <img className="lg:w-56 mdl:w-44 sml:w-full sm:w-full lg:h-56 mdl:h-52 sm:h-48 sm:mb-3" src={home2} alt="" />
+              <img className="lg:w-56 mdl:w-44 sml:w-full sm:w-full lg:h-56 mdl:h-52 sm:h-48" src={home3} alt="" />
             </div>
           </div>
-          <div className="w-1/2">
-            <h1 className="text-4xl text-center font-semibold">WHO WE ARE</h1>
-            <div className="space-y-3 py-8 text-lg">
+          <div className="lg:w-1/2 mdl:w-1/2">
+            <h1 className="lg:text-4xl mdl:text-3xl md:text-2xl text-xl text-center font-semibold">WHO WE ARE</h1>
+            <div className="space-y-3 py-8 lg:text-lg mdl:text-lg md:text-sm">
               <p>
                 Welcome to the web site of Waficolorsbd Bangladesh Limited and
                 thank you for your interest. This site will give you an insight
@@ -79,11 +79,11 @@ const WeAre = () => {
       </div>
 
       {/* icon section */}
-      <div className="container mx-auto flex justify-between py-12">
+      <div className="container mx-auto lg:flex mdl:flex md:flex justify-between py-12">
         {iconSectionData.map((item) => (
           <div
             key={item.id}
-            className="w-96 text-center space-y-3 flex flex-col justify-center items-center"
+            className="w-96 sm:w-full text-center space-y-3 flex flex-col justify-center items-center"
           >
             <img src={item.icon} alt="icon" />
             <h2 className="text-xl font-bold">{item.title}</h2>

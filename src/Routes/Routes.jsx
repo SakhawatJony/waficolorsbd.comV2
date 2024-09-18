@@ -6,6 +6,8 @@ import Certification from "../pages/Certification/Certification";
 import AllProduct from "../pages/AllProduct/AllProduct";
 import LatestNewsDetails from "../pages/LatestNewsDetails/LatestNewsDetails";
 import Contact from "../pages/Contact/Contact";
+import LatestProducts from "../pages/LatestProducts/LatestProducts";
+import ProductList from "../pages/ProductList/ProductList";
 
 export const router = createBrowserRouter([
     {
@@ -38,6 +40,15 @@ export const router = createBrowserRouter([
             {
                 path: "/contact",
                 element: <Contact />
+            },
+            {
+                path: "/latest-products",
+                element: <LatestProducts />
+
+            },
+            {
+                path: "/product-list",
+                element: <ProductList />
 
             }
         ]

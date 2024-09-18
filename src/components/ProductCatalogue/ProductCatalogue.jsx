@@ -14,7 +14,7 @@ const ProductCatalogue = () => {
     <div className="container mx-auto">
       <img className="mx-auto my-12" src={productTileImg} alt="" />
 
-      <div className="grid grid-cols-4 gap-6">
+      <div className="grid lg:grid-cols-4 mdl:grid-cols-3 md:grid-cols-2 gap-6 sm:p-4">
         {fortinData &&
           fortinData?.map((item) => <ProductCard key={item.id} item={item} />)}
       </div>

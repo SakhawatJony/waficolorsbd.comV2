@@ -33,7 +33,7 @@ const Banner = () => {
 
             >
                 <SwiperSlide >
-                    <img src={banner4} alt="Banner 1" />
+                    <img src={banner4} alt="Banner 4" />
                 </SwiperSlide>
                 <SwiperSlide>
                     <img src={banner2} alt="Banner 2" />
@@ -42,7 +42,7 @@ const Banner = () => {
                     <img src={banner3} alt="Banner 3" />
                 </SwiperSlide>
                 <SwiperSlide>
-                    <img src={banner1} alt="Banner 3" />
+                    <img src={banner1} alt="Banner 1" />
                 </SwiperSlide>
                 <SwiperSlide>
                     <img src={banner5} alt="Banner 3" />

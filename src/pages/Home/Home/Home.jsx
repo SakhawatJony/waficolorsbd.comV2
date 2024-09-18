@@ -5,7 +5,7 @@ import WeAre from "../WeAre/WeAre";
 
 const Home = () => {
     return (
-        <div className="pt-28">
+        <div className="pt-24">
             <Banner />
             <WeAre />
             <ProductCatalogue />

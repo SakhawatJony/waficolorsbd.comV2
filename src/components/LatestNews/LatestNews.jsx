@@ -23,6 +23,17 @@ const LatestNews = () => {
         <Swiper
           modules={[Navigation, Pagination, Autoplay]}
           slidesPerView={3}
+          breakpoints={{
+            353: {
+              slidesPerView: 1
+            },
+            667: {
+              slidesPerView: 2
+            },
+            960: {
+              slidesPerView: 3
+            }
+          }}
           spaceBetween={20}
           pagination={{ clickable: true }}
           loop={true}

@@ -14,9 +14,9 @@ const Footer = () => {
   return (
     <div>
       <footer style={banner} className=" text-white ">
-        <div className="container mx-auto px-6 flex justify-between items-center">
+        <div className="container mx-auto px-6 lg:flex justify-between items-center">
           {/* Logo and Social Media Section */}
-          <div className="border-r-2">
+          <div className="lg:border-r-2">
             <img
               src={logo}
               alt="Silkflex Bangladesh Ltd"
@@ -88,7 +88,7 @@ const Footer = () => {
             </div>
           </div>
         </div>
-        <div className="mt-6 pt-4 text-center text-sm">
+        <div className="mt-6 container mx-auto pt-4 text-center text-sm">
           Quick Link:{" "}
           <a
             href="#"
@@ -139,9 +139,9 @@ const Footer = () => {
           </a>
         </div>
         {/* Quick Links and Copyright */}
-        <div className="border-t border-gray-700 mt-6 pt-4 text-center text-sm">
-          <p>Copyright ©2024 Waficolorsbd. All rights reserved.</p>
-          <p>Waficolorsbd.com - the largest business portal of Bangladesh</p>
+        <div className="border-t container mx-auto border-gray-700 mt-6 pt-4 text-center text-sm">
+          <p className="sm:text-xs">Copyright ©2024 Waficolorsbd. All rights reserved.</p>
+          <p className="sm:text-sm py-2">Waficolorsbd.com - the largest business portal of Bangladesh</p>
         </div>
       </footer>
     </div>
