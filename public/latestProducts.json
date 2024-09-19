@@ -14,20 +14,20 @@
     {
         "id": 3,
         "name": "GLOW-IN-THE-DARK PRINT",
-        "products1": "SILKFLEX GLOW-IN-THE-DARK PASTE GITD-203",
+        "products1": "WAFI COLORS BD GLOW-IN-THE-DARK PASTE GITD-203",
         "products2": ""
     },
     {
         "id": 4,
         "name": "CRACK PRINT",
-        "products1": " SILKFLEX AQUA CRACK WHITE AQCW-750",
-        "products2": " SILKFLEX AQUA CRACK CLEAR AQCT-751"
+        "products1": " WAFI COLORS BD AQUA CRACK WHITE AQCW-750",
+        "products2": " WAFI COLORS BD AQUA CRACK CLEAR AQCT-751"
     },
     {
         "id": 5,
         "name": "WATER BASE HIGH DENSITY PRINT",
-        "products1": "SILKFLEX HIGHDENSITY RUBBER CLEAR CHD-301",
-        "products2": "SILKFLEX HIGHDENSITY RUBBER WHITE WHD-302"
+        "products1": "WAFI COLORS BD HIGHDENSITY RUBBER CLEAR CHD-301",
+        "products2": "WAFI COLORS BD HIGHDENSITY RUBBER WHITE WHD-302"
     },
     {
         "id": 6,
@@ -38,7 +38,7 @@
     {
         "id": 7,
         "name": "MATTING PASTE",
-        "products1": "SILKFLEX MATT PASTE SPB-224",
+        "products1": "WAFI COLORS BD MATT PASTE SPB-224",
         "products2": ""
     },
     {
@@ -56,19 +56,19 @@
     {
         "id": 10,
         "name": "MEDIUM GRADE MANUAL RUBBER PRINT",
-        "products1": "SILKFLEX NEOPRINT RUBBER CLEAR NPC-1402",
-        "products2": "SILKFLEX NEOPRINT RUBBER WHITE NPW-1401"
+        "products1": "WAFI COLORS BD NEOPRINT RUBBER CLEAR NPC-1402",
+        "products2": "WAFI COLORS BD NEOPRINT RUBBER WHITE NPW-1401"
     },
     {
         "id": 11,
         "name": "FOR HIGH QUALITY MANUAL RUBBER PRINT (EXTRAMATT)",
-        "products1": "SILKFLEX PUMA RUBBER CLEAR SPC-1502",
-        "products2": "SILKFLEX PUMA RUBBER WHITE SPW-1501"
+        "products1": "WAFI COLORS BD PUMA RUBBER CLEAR SPC-1502",
+        "products2": "WAFI COLORS BD PUMA RUBBER WHITE SPW-1501"
     },
     {
         "id": 12,
         "name": "FIXING AGENT",
-        "products1": "SILKFLEX ECO OXAL FIXER SU-400E",
+        "products1": "WAFI COLORS BD ECO OXAL FIXER SU-400E",
         "products2": ""
     }
 ]

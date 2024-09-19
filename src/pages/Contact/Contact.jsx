@@ -13,15 +13,13 @@ const Contact = () => {
                     <address className="mx-auto">
                         <p className="text-2xl text-orange-500 font-bold border-b">CORPORATE OFFICE</p>
                         <br />
-                        Rupayan Taj, Flat: K-3 (3rd Floor), Plot No: 1, 1/1 NayaPalton, Dhaka-1000, Bangladesh.
+                        935, Mizmizi Kanda Para Siddirgonj,Narayangonj-1430, Bangladesh
                         <br />
-                        Phone: (02)-9349525
+                        Phone: +8801682714945
                         <br />
-                        Mobile: 01711665182
+                        Mobile: +8801714810148
                         <br />
-                        Fax: (02)-8391657
-                        <br />
-                        Email: waficolorsbd@gamil.com
+                        Email: info@waficolorsbd.com, waficolorsbd@gmail.com
                         <br />
                         Website: www.waficolorsbd.com
                     </address>
@@ -31,64 +29,70 @@ const Contact = () => {
                     <address>
                         <p className="text-2xl text-orange-500 font-bold border-b">DHAKA BRANCH</p>
                         <br />
-                        Dhaka Branch: 28 No. Old Mugholtuli,
+                        935, Mizmizi Kanda Para Siddirgonj,Narayangonj-1430, Bangladesh
                         <br />
-                        Nawabpur, Dhaka
+                        Phone: +8801682714945
                         <br />
-                        Phone: (02)-9583198
+                        Mobile: +8801714810148
                         <br />
-                        Mobile: 01712897339, 01711667583
+                        Email: info@waficolorsbd.com, waficolorsbd@gmail.com
                         <br />
-                        Email: dhaka@waficolorsbd.com
+                        Website: www.waficolorsbd.com
 
                     </address>
                     <address>
                         <p className="text-2xl text-orange-500 font-bold border-b">KONABARI BRANCH</p>
                         <br />
-                        Mollah Super market, BSCIC main Gait.
+                        935, Mizmizi Kanda Para Siddirgonj,Narayangonj-1430, Bangladesh
                         <br />
-                        Phone: (02)-9297637
+                        Phone: +8801682714945
                         <br />
-                        Mobile: 01711665760, 01711667594
+                        Mobile: +8801714810148
                         <br />
-                        Email: konabari@waficolorsbd.com
+                        Email: info@waficolorsbd.com, waficolorsbd@gmail.com
+                        <br />
+                        Website: www.waficolorsbd.com
                     </address>
                     <address>
                         <p className="text-2xl text-orange-500 font-bold border-b">MIRPUR BRANCH</p>
                         <br />
-                        House#21, Block#A, Ave#1,
+                        935, Mizmizi Kanda Para Siddirgonj,Narayangonj-1430, Bangladesh
                         <br />
-                        Section#11, Mirpur,
+                        Phone: +8801682714945
                         <br />
-                        Dhaka#1216. Bangladesh
+                        Mobile: +8801714810148
                         <br />
-                        Mobile: 01682-714945, 1714-810148
+                        Email: info@waficolorsbd.com, waficolorsbd@gmail.com
                         <br />
-                        Email: mirpur@waficolorsbd.com
+                        Website: www.waficolorsbd.com
                     </address>
                 </div>
                 <div className="lg:flex mdl:flex gap-12 my-12">
                     <address>
                         <p className="text-2xl text-orange-500 font-bold border-b">NARAYANGONJ BRANCH</p>
                         <br />
-                        Jamina Super Market, West Masdair Gorosthan
+                        935, Mizmizi Kanda Para Siddirgonj,Narayangonj-1430, Bangladesh
                         <br />
-                        Rd, Enayetnagar-1421, Narayanganj.
+                        Phone: +8801682714945
                         <br />
-                        Mobile: 01711667027, 01711667014
+                        Mobile: +8801714810148
                         <br />
-                        Email: narayangonj@waficolorsbd.com
+                        Email: info@waficolorsbd.com, waficolorsbd@gmail.com
+                        <br />
+                        Website: www.waficolorsbd.com
                     </address>
                     <address>
                         <p className="text-2xl text-orange-500 font-bold border-b">CHATTOGRAM BRANCH</p>
                         <br />
-                        Shop # 1, 3, Ahmed Mansion 1128, Sheikh
+                        935, Mizmizi Kanda Para Siddirgonj,Narayangonj-1430, Bangladesh
                         <br />
-                        Mujibur Rhaman Road, Dewanhat, Ctg.
+                        Phone: +8801682714945
                         <br />
-                        Mobile: 01711667571
+                        Mobile: +8801714810148
                         <br />
-                        Email: chattagram@waficolorsbd.com
+                        Email: info@waficolorsbd.com, waficolorsbd@gmail.com
+                        <br />
+                        Website: www.waficolorsbd.com
                     </address>
                 </div>
             </div>

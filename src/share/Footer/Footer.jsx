@@ -19,7 +19,7 @@ const Footer = () => {
           <div className="lg:border-r-2">
             <img
               src={logo}
-              alt="Silkflex Bangladesh Ltd"
+              alt="WAFI COLORS BD Bangladesh Ltd"
               className="h-72 mb-4"
             />
             <div className="flex flex-col space-x-4 items-center ">

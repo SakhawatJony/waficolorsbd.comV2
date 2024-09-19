@@ -18,7 +18,7 @@ const NewsCard = ({ item }) => {
                     <img
                         className="w-72 h-72"
                         src={item?.img}
-                        alt="Shoes" />
+                        alt="certification" />
                 </figure>
                 <div className="card-body">
                     <h2 className="card-title">{item?.title}</h2>
